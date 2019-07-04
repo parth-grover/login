@@ -1,0 +1,4 @@
+RewriteEngine on 
+RewriteRule ^login/?$ ./login.php
+RewriteRule ^admin/?$ ./admin.php
+RewriteRule ^logout/?$ ./logout.php
